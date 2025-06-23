@@ -1,4 +1,4 @@
-# 🌐Search Redirector - Spring MVC Project
+# 🌐Google-Search Redirector - Spring MVC Project
 
 A simple Spring MVC web application that allows users to search Google directly from a custom UI. The application takes a user's input and redirects them to Google search results for the given query.
 
